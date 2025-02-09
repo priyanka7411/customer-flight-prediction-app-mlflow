@@ -40,7 +40,7 @@ The Streamlit app allows users to:
 - Get a real-time prediction of flight prices.
 
 #### Screenshot
-![Flight Price Prediction App](path/to/your/flight_prediction_screenshot.png)
+![Flight Price Prediction App](https://github.com/priyanka7411/customer-flight-prediction-app-mlflow/blob/main/screencapture-localhost-8512-2025-02-09-13_01_59.png)
 
 ---
 
