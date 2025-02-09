@@ -123,4 +123,9 @@ Dataset includes:
    streamlit run app.py
 
 
+## Future Enhancements
+- **Improved UI**: Add more visual elements and filters to enhance user experience.
+- **Model Optimization**: Experiment with ensemble methods to further improve prediction accuracy.
+- **Deployment**: Explore deploying the app on cloud platforms for wider accessibility.
+
 
