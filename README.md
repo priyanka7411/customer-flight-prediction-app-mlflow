@@ -72,8 +72,8 @@ The Streamlit app allows users to:
 - Get a prediction of customer satisfaction levels.
 
 #### Screenshot
-![Customer Satisfaction Prediction App](https://github.com/priyanka7411/customer-flight-prediction-app-mlflow/blob/main/screencapture-localhost-8512-2025-02-09-13_01_29.png)
-![Customer Satisfaction Prediction App](https://github.com/priyanka7411/customer-flight-prediction-app-mlflow/blob/main/screencapture-localhost-8503-2025-02-09-09_41_24.png)
+![Customer Satisfaction Prediction App]()
+![Customer Satisfaction Prediction App]()
 
 ---
 
